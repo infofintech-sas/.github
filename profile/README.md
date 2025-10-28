@@ -1,3 +1,4 @@
+---
 # 🌐 Bienvenido a INFOFINTECH SAS
 
 Soluciones de pago seguras y sin fronteras.
@@ -11,27 +12,19 @@ Soluciones de pago seguras y sin fronteras.
 - Usa **Issues y Pull Requests** con etiquetas descriptivas.
 - Revisa y comenta PRs de otros miembros.
 
----
-
 ## 🔐 Seguridad y Privacidad
 
 - Nunca subas credenciales o secretos.
 - Usa `.env.example` para variables de entorno.
 - Revisa nuestras políticas de seguridad en cada repositorio.
 
----
-
 ## 🧑‍💻 Comunidad y Colaboración
 
 Creemos en el aprendizaje continuo y el respeto mutuo. Si tienes dudas, ideas o sugerencias, ¡no dudes en compartirlas!
 
----
-
 ## 📬 Contacto
 
-Para soporte o colaboración externa, puedes escribirnos a: [infraestructura@infofintech.com.co]
-
----
+Para soporte o colaboración externa, puedes escribirnos a infraestructura@
 
 ## 📜 Licencia
 
