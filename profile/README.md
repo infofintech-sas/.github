@@ -6,9 +6,11 @@ Soluciones de pago seguras y sin fronteras.
 ## ✅ Buenas Prácticas
 
 - Usa **commits semánticos** (`feat:`, `fix:`, `update:`).
-- Mantén una **documentación clara** y actualizada.
+- Mantén una **documentación clara** y actualizada en los readme.md.
 - Prioriza **scripts portables y mantenibles**.
-- Usar siempre los pipelines-templates para despliegues **CI/CD**.
+- Usar siempre los pipelines-templates de despliegue asignados para cada componente **CI/CD**.
+- No mezclar directo a ramas principales (dev / production).
+- Siempre utilizar Pull Request para mezclar los cambios a ramas principales.
 - Usa **Issues y Pull Requests** con etiquetas descriptivas.
 - Revisa y comenta PRs de otros miembros.
 
